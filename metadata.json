@@ -1,0 +1,5 @@
+{
+  "name": "SQL Lineage Analyzer",
+  "description": "Analyzes SQL queries and generates data lineage graphs showing table and column dependencies.",
+  "requestFramePermissions": []
+}
